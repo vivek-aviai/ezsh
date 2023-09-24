@@ -150,6 +150,7 @@ SAVEHIST=50000      #save upto 50,000 lines in history. oh-my-zsh default is 10,
 alias myip="wget -qO- https://wtfismyip.com/text"	# quickly show external ip address
 alias l="ls -lAhrtF"    # show all except . .. , sort by recent, / at the end of folders
 alias e="exit"
+alias cl="clear"
 
 
 # CUSTOM FUNCTIONS
